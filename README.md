@@ -32,6 +32,11 @@ Servers are often categorized in terms of their purpose. A few examples of the t
   
 What is a JS Server?
 
+A guy named **Brendan Eich**, who was working at Netscape at the time, was tasked to create a scripting language to add a bit of interactivity to their Netscape Navigator browser. The language would be created to compete with a similar scripting language called JScript of the same era, which came from Microsoft for its Internet Explorer browser. Interactivity meant being able to do basic validation on an input for a form and do something when a button is clicked. Eich created the first version of JavaScript in 10 days. Yeah, just 10 days.
+
+Fast-forward a couple of years later, Google had its map service that was making really advanced use of the language, using **XMLHTTPRequest to update their map in real-time** while users were navigating around. That contributed to the popularity of the language because it showed what was possible in a browser at the time. The **AJAX** (Asynchronous JavaScript and XML) term was coined around that time and was becoming a popular technique to get new data on a web page without reloading it and this quickly became a common use of the technology.
+
+Then in **2009, another guy named Ryan Dahl created Node.js,** which we will discuss in the next section.
 
 - What is Node.js?
 - How to query in Server?
