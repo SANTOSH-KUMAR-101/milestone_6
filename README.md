@@ -10,6 +10,8 @@ Objectives:-
 
 Prerequiste:-
 - What is Server?
+A server is a computer program or device that provides a service to another computer program and its user, also known as the client.
+In a data center, the physical computer that a server program runs on is also frequently referred to as a server. That machine might be a dedicated server or it might be used   for other purposes.
   
 - What is a JS Server?
 - What is Node.js?
